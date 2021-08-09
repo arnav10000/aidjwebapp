@@ -1,0 +1,32 @@
+.heading {
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
+
+#song{
+    font-size: 25px;
+}
+
+.note {
+    font-size: 15px;
+    color: black;
+}
+
+canvas {
+    border: 5px rgb(255, 255, 255) solid;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+    margin-top: 50px;
+}
+
+#song_name{
+    width: 170px;
+    font-size: 25px;
+}
+
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2016/06/02/02/33/triangles-1430105__340.png);
+    background-position: fixed;
+    background-size: cover;
+}
